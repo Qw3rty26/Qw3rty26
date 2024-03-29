@@ -13,38 +13,58 @@
 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/pink_heart.gif" alt="pink_heart" width="5%"> 
 -->
 
-<!-- CELESTE SPRITES -->
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/cassette.gif" alt="celeste_cassette" width="7%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/red_heart.gif" alt="celeste_red_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/blue_heart.gif" alt="celeste_blue_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/golden_heart.gif" alt="celeste_golden_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/strawberry.gif" alt="celeste_strawberry" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/flying_strawberry.gif" alt="celeste_flying_strawberry" width="7%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/golden_strawberry.gif" alt="celeste_golden_strawberry" width="7%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/golden_flying_strawberry.gif" alt="celeste_golden_flying_strawberry" width="7%"> 
-<h1 align="center"> <img src="https://media.tenor.com/m1wI7kR37HAAAAAi/patchouli-patchouliknowledge.gif" width="50"> Hi! I'm Qw3rty26 <img src="https://media.tenor.com/3GmqPXsprRoAAAAi/cirno-flying.gif" width="50"> </h1>
+<!-- CELESTE SPRITES
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/cassette.gif" alt="celeste_cassette" width="7%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/red_heart.gif" alt="celeste_red_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/blue_heart.gif" alt="celeste_blue_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_heart.gif" alt="celeste_golden_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/flying_strawberry.gif" alt="celeste_flying_strawberry" width="7%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_strawberry.gif" alt="celeste_golden_strawberry" width="7%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_flying_strawberry.gif" alt="celeste_golden_flying_strawberry" width="7%"> 
+-->
 
 
-<img src="https://preview.redd.it/9n3yjbdmepj61.gif?width=40&auto=webp&s=69eb43798a363c939737686f9bb919771693948c" width="4%">
+<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"> I'm Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
 
+<div align="center">
+    I'm a beginner programmer and software engineer.
+<img src="https://media.tenor.com/lCCqej_k220AAAAi/2hu-touhou.gif" align="right">
+</div>
 
+<br><br><br><br><br><br><br><br><br><br>
 
-
-
-
-
-
-
-<img src="https://media.tenor.com/lCCqej_k220AAAAi/2hu-touhou.gif">
+<!-- Languages -->
 <h2 align="center">Languages</h2>
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="45"></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="45"></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45"></a>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="45"></a>
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45"></a>
+    <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"></a>
+    <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="45"></a>
 </p>
 
-<a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank"><img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" height="45"></a>
+<!-- Socials -->
+<h2 align="center"> Socials </h2>
 <p align="center">
+    <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="45"></a>
+    <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" /></a>
+    <a href="" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
+    <a href="https://discordapp.com/users/qw3rty26" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="45"/></a>
+    <!-- <a href="https://www.reddit.com/user/Qw3rty26/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="45""/></a> -->
+    <!-- <a href="https://twitter.com/Qw3rty26" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45""/></a> -->
+    <a href="https://youtube.com/@qw3rty26?si=OfP6s7j6ARvkZMB6" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45""/></a>
+    <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="45"></a>
+</p>
+
+<h2 align="center"> Setup </h2>
+<p align="center">
+    <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank"><img alt="Gentoo" src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white" height="45"></a>
+    <a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" height="45"/></a>
+    <br>
+    <!-- <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" height="45"></a> -->
     <a href="https://www.amd.com/en/products/apu/amd-ryzen-9-5900hs" target="_blank"><img alt="AMDCPU" src="https://img.shields.io/badge/AMD-Ryzen_9_5900HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="45"></a>
     <a href="https://www.cpu-monkey.com/it/benchmark-amd_ryzen_9_5900hs-bench_11" target="_blank"><img alt="AMDGPU" src="https://img.shields.io/badge/AMD-Radeon_RXVEGA_8-ED1C24?style=for-the-badge&logo=amd&logoColor=white" height="45"></a>
     <a href="https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3090-3090ti/" target="_blank"><img alt="NVIDIAGPU" src="https://img.shields.io/badge/NVIDIA-RTX3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="45"></a>
