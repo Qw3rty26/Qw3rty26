@@ -1,16 +1,16 @@
 <!-- HEART EMOJIS -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" alter="red_heart" width="5%"> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e1/512.webp" alter="orange_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49b/512.webp" alter="yellow_heart" width="5%"> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49a/512.webp" alter="green_heart" width="5%" > 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa75/512.webp" alter="light-blue_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f499/512.webp" alter="blue_heart" width="5%"> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49c/512.webp" alter="purple_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f90e/512.webp" alter="brown_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a4/512.webp" alter="black_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa76/512.webp" alter="gray_heart" width="5%"> 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f90d/512.webp" alter="white_heart" width="5%">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa77/512.webp" alter="pink_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/red_heart.gif" alt="red_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/orange_heart.gif" alt="orange_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/yellow_heart.gif" alt="yellow_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/green_heart.gif" alt="green_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/light_blue_heart.gif" alt="light_blue_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/blue_heart.gif" alt="blue_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/purple_heart.gif" alt="purple_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/brown_heart.gif" alt="brown_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/black_heart.gif" alt="black_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/grey_heart.gif" alt="grey_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/white_heart.gif" alt="white_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/pink_heart.gif" alt="pink_heart" width="5%"> 
 -->
 
 <h1 align="center"> <img src="https://media.tenor.com/m1wI7kR37HAAAAAi/patchouli-patchouliknowledge.gif" width="50"> Hi! I'm Qw3rty26 <img src="https://media.tenor.com/3GmqPXsprRoAAAAi/cirno-flying.gif" width="50"> </h1>
