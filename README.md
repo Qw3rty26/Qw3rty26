@@ -24,45 +24,74 @@
 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_flying_strawberry.gif" alt="celeste_golden_flying_strawberry" width="7%"> 
 -->
 
-<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"> I'm Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
+<!-- Header -->
+<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/bounceline.gif" alt="celeste_bounceline" width="5%"> This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
 
-<div align="center">
+<!-- <div align="center">
     I'm a beginner programmer and software engineer.
 <img src="https://media.tenor.com/lCCqej_k220AAAAi/2hu-touhou.gif" align="right">
+</div> -->
+<div align="center"> <!-- About Me -->
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="left"> About Me <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="right"></h2>
+    <div align="left">
+        <pre>
+            Hello! My name is Valerio Asaro, I'm a 20 year-old beginner programmer and software engineer.
+            Currently based in Trento, I was born in Sicily March 26th 2004.
+            My passions are videogames and the Japanese culture.
+        </pre>
+    </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br>
+<div align="center"> <!-- Languages -->
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
+    <div align="left">
+        <pre>
+            I learned a bunch of programming languages during highschool and my free times. 
+            I'm currently learning Web Programming and the Shell Language for Kernel coding.
+        </pre>
+            <p align="left">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="45"></a>
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45"></a>
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45"></a>
+            <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45"></a>
+            <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"></a>
+            <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="45"></a>
+            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="45"></a>
+        </p>
+    </div>
+</div> <!-- Languages -->
 
-<details>
-    <summary><img id="image" src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_cassette" width="5%"><h2> About Me</h2></summary>
-</details>
-
-<details> <!-- Languages -->
-    <summary>Languages</summary>
-    <h2 align="center">Languages</h2>
-    <p align="center">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="45"></a>
-        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45"></a>
-        <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="45"></a>
-        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45"></a>
-        <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45"></a>
-        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"></a>
-        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="45"></a>
-    </p>
-</details> <!-- Languages -->
-
-<details> <!-- To Do -->
-    <summary style="list-style:none"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_cassette" width="3%"><h2> To Do </h2></summary>
-</details>
+<div align="center"> <!-- To Do -->
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="right"></h2>
+    <div align="left">
+        <pre>
+            I happen to set myself goals and objectives sometimes.
+            They might be too pretentious for me but I'll try my best accomplishing them.
+        </pre>
+    </div>
+</div>
 
 
-<details> <!-- Socials -->
-    <summary><img id="image" src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_cassette" width="5%"><h2> Socials </h2></summary>
-    <h2 align="center"> Socials </h2>
+<div align="center"><details> <!-- To Do -->
+    <summary><h2> To Do </h2></summary>
+    <h2 align="center"></h2>
+    <div align="center">
+        <pre>
+            
+        </pre>
+    </div>
+</details> <!-- To Do -->
+    <h2 align="center"></h2>
+</div>
+
+<div align="left"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_cassette" width="5%" align="left"></div>
+<div align="center"><details> <!-- Socials --> 
+    <summary><h2> Socials </h2></summary>
+    <h2 align="center"></h2>
     <div align="center">
         <pre>
             You can reach me anywhere you like! From GMail to Discord, I've got you covered.
-            I should be able to reply in little time :D
+            I should be able to reply in little to no time :D
         </pre>
     </div>
     <p align="center">
@@ -76,6 +105,8 @@
         <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="45"></a>
     </p>
 </details> <!-- Socials -->
+    <h2 align="center"></h2>
+</div>
 
 <details> <!--Setup -->
     <summary>Setup</summary>
