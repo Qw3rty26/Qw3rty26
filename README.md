@@ -38,18 +38,22 @@ Currently based in Trento, I was born in Sicily March 26th 2004.
 My passions are videogames and Japanese culture.</pre>
     <details>
         <summary>What else you got!?</summary>
+        <br>
         <div align="center">
             <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/patchouli.gif" alt="patchouli_knowledge" width="15%" align="right">
 <pre>My favourite color is orange, my favourite number is -1
 I like eating pizza and listening to some good music under the rain.
-My favourite movie is <a href="https://en.wikipedia.org/wiki/Interstellar_(film)">Interstellar</a>.
-My favourite anime is probably <a href="https://en.wikipedia.org/wiki/Noragami">Noragami</a>, but i enjoyed watching <a href="https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War">Love is War</a> multiple times.</pre>
-            <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/madeline_idle.gif" alt="celeste_madeline_idle" width="13%" align="left">
+My favourite movie is <a href="https://en.wikipedia.org/wiki/Interstellar_(film)">Interstellar</a>, my favourite anime is probably <a href="https://en.wikipedia.org/wiki/Noragami">Noragami</a>, 
+but i also enjoyed watching <a href="https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War">Love is War</a> multiple times.</pre>
+            <br><br><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/madeline_idle.gif" alt="celeste_madeline_idle" width="15%" align="left">
 <pre>My favourite videogame is <a href="https://en.wikipedia.org/wiki/Celeste_(video_game)">Celeste</a> but I also love 
 <a href="https://it.wikipedia.org/wiki/Perfect_Cherry_Blossom">Touhou: Perfect Cherry Blossom</a> and <a href="https://www.op.gg/summoners/euw/Qw3rty26-6969">League of Legends</a>.
 My favourite characters are <a href="https://en.wikipedia.org/wiki/Madeline_(Celeste)">Madeline</a>, <a href="https://en.touhouwiki.net/wiki/Patchouli_Knowledge">Patchouli Knowledge</a> and <a href="https://www.leagueoflegends.com/it-it/champions/zoe/">Zoe</a>.
 I enjoy laughing at memes and <a href="https://scontent-fco2-1.cdninstagram.com/v/t51.29350-15/431671146_1559322924802491_538144545585817740_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDAweDE3NDIuc2RyIn0&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=MLo2rGWdAcoAX_CWxzg&edm=AA5fTDYBAAAA&ccb=7-5&ig_cache_key=MzMxNjkwMjA1NTUxNDg0Nzc2MA%3D%3D.2-ccb7-5&oh=00_AfBKdIBwP4vfetkBpfNI_bGfa0UlLsMdRDdl4FXV6tGbag&oe=660BD391&_nc_sid=cf751b">funny cat images</a> found on internet.
-</pre>
+</pre><br>
+            
+---         
+<br>
         </div>
     </details>
 </div> <!-- About Me -->
