@@ -44,7 +44,7 @@ I enjoy laughing at memes and <a href="https://scontent-fco2-1.cdninstagram.com/
 <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="right"></h2>
 <div align="center">
 <pre>I learned a bunch of programming languages during highschool and my free times. 
-I'm currently learning Web Programming and Shell Language for Kernel coding.</pre>
+I'm currently learning Web Programming and Shell/Bash Scripts for Kernel coding.</pre>
 </div>
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"></a>
@@ -78,7 +78,7 @@ They might be too pretentious for me but I'll try my best accomplishing them.</p
 </div>
 <p align="left">
     
-- [ ] Make my vyrtueOS (<a href="https://en.wikipedia.org/wiki/Gentoo_Linux">Gentoo</a> based Operative System) a public repository.
+- [ ] Make my vyrtueOS (<a href="https://en.wikipedia.org/wiki/Gentoo_Linux">Gentoo</a> based Operating System) a public repository.
 - [ ] Create a <a href="https://en.wikipedia.org/wiki/Celeste_(video_game)">game</a>.
 - [ ] Make some <a href="https://www.youtube.com/watch?v=1rwAvUvvQzQ">music</a>. <a href="https://www.youtube.com/watch?v=MZa0ArkgXjc&list=PLA10BBDE6A30B2674&index=8">[also]</a>
 - [ ] Learn how to <a href="https://twitter.com/Lunamoon55/status/1712060620655525954/photo/1">draw</a>.
