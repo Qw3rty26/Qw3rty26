@@ -34,9 +34,9 @@
 </div> -->
 <div align="center"> <!-- About Me -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="left"> About Me <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="right"></h2>
-    <div align="left">
+    <div align="center">
         <pre>
-            Hello! My name is Valerio Asaro, I'm a 20 year-old beginner programmer and software engineer.
+            <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_red_heart" width="3%"> Hello! My name is Valerio Asaro, I'm a 20 year-old programmer and software engineer.
             Currently based in Trento, I was born in Sicily March 26th 2004.
             My passions are videogames and the Japanese culture.
         </pre>
@@ -45,7 +45,7 @@
 
 <div align="center"> <!-- Languages -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
-    <div align="left">
+    <div align="center">
         <pre>
             I learned a bunch of programming languages during highschool and my free times. 
             I'm currently learning Web Programming and the Shell Language for Kernel coding.
@@ -64,7 +64,7 @@
 
 <div align="center"> <!-- To Do -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="right"></h2>
-    <div align="left">
+    <div align="center">
         <pre>
             I happen to set myself goals and objectives sometimes.
             They might be too pretentious for me but I'll try my best accomplishing them.
@@ -72,24 +72,25 @@
     </div>
 </div>
 
-<div align="center"> <!-- To Do -->
+<div align="center"> <!-- Goals -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="left"> Socials <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="right"></h2>
-    <div align="left">
-        <pre>
-            You can reach me anywhere you like! From GMail to Discord, I've got you covered.
-            I should be able to reply in little to no time :D
-        </pre>
-        <p align="center">
-            <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
-            <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
-            <a href="" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
-            <a href="https://discordapp.com/users/qw3rty26" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/></a>
-            <!-- <a href="https://www.reddit.com/user/Qw3rty26/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40""/></a> -->
-            <!-- <a href="https://twitter.com/Qw3rty26" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40""/></a> -->
-            <a href="https://youtube.com/@qw3rty26?si=OfP6s7j6ARvkZMB6" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40""/></a>
-            <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="40"></a>
-        </p>
-    </div>
+</div>
+<div align="center">
+    <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/instruction_book/climb2.png" alt="celeste_climb_instruction_book" width="10%" align="right">
+    <pre>
+        You can reach me anywhere you like! From GMail to Discord, I've got you covered.
+        I should be able to reply in little to no time :D
+    </pre>
+    <p align="center">
+        <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
+        <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
+        <a href="" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+        <a href="https://discordapp.com/users/qw3rty26" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/></a>
+        <!-- <a href="https://www.reddit.com/user/Qw3rty26/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40""/></a> -->
+        <!-- <a href="https://twitter.com/Qw3rty26" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40""/></a> -->
+        <a href="https://youtube.com/@qw3rty26?si=OfP6s7j6ARvkZMB6" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40""/></a>
+        <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="40"></a>
+    </p>
 </div>
 
 
