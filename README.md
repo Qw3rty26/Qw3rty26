@@ -1,16 +1,16 @@
 <!-- HEART EMOJIS
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/red_heart.gif" alt="red_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/orange_heart.gif" alt="orange_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/yellow_heart.gif" alt="yellow_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/green_heart.gif" alt="green_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/light_blue_heart.gif" alt="light_blue_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/blue_heart.gif" alt="blue_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/purple_heart.gif" alt="purple_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/brown_heart.gif" alt="brown_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/black_heart.gif" alt="black_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/grey_heart.gif" alt="grey_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/white_heart.gif" alt="white_heart" width="5%"> 
-<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/heart_emojis/pink_heart.gif" alt="pink_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/red_heart.gif" alt="red_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/orange_heart.gif" alt="orange_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/yellow_heart.gif" alt="yellow_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/green_heart.gif" alt="green_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/light_blue_heart.gif" alt="light_blue_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/blue_heart.gif" alt="blue_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/purple_heart.gif" alt="purple_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/brown_heart.gif" alt="brown_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/black_heart.gif" alt="black_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/grey_heart.gif" alt="grey_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/white_heart.gif" alt="white_heart" width="5%"> 
+<img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/emoji/pink_heart.gif" alt="pink_heart" width="5%"> 
 -->
 
 <!-- CELESTE SPRITES
@@ -24,7 +24,6 @@
 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_flying_strawberry.gif" alt="celeste_golden_flying_strawberry" width="7%"> 
 -->
 
-
 <h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"> I'm Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
 
 <div align="center">
@@ -33,6 +32,10 @@
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
+
+<details>
+    <summary><img id="image" src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_cassette" width="5%"><h2> About Me</h2></summary>
+</details>
 
 <details> <!-- Languages -->
     <summary>Languages</summary>
@@ -48,9 +51,13 @@
     </p>
 </details> <!-- Languages -->
 
+<details> <!-- To Do -->
+    <summary style="list-style:none"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_cassette" width="3%"><h2> To Do </h2></summary>
+</details>
+
 
 <details> <!-- Socials -->
-    <summary>Socials</summary>
+    <summary><img id="image" src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_cassette" width="5%"><h2> Socials </h2></summary>
     <h2 align="center"> Socials </h2>
     <div align="center">
         <pre>
