@@ -30,44 +30,66 @@
 
 <h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%" align="left">This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%" align="right"></h1>
 
-<!-- <div align="left">  About Me -->
+<!-- About Me -->
 <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="left"> About Me <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="right"></h2>
 <div align="center"> 
 <pre>Hello! My name is Valerio Asaro, I'm a 20 year-old programmer and software engineer.
 Currently based in Trento, I was born in Sicily March 26th 2004.
-My passions are videogames the Japanese culture.</pre>
-</div> 
-<div align="center"><details>
-    <summary>What else you got!?</summary>
-</details></div>
+My passions are videogames and Japanese culture.</pre>
+    <details>
+        <summary>What else you got!?</summary>
+        <div align="center">
+            <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/bounceline.gif" alt="celeste_bounceline" width="12%" align="right">
+<pre>My favourite color is orange, my favourite number is -1
+I like eating pizza and listening to some good music under the rain.
+My favourite movie is <a href="https://en.wikipedia.org/wiki/Interstellar_(film)">Interstellar</a>.
+My favourite anime is probably <a href="https://en.wikipedia.org/wiki/Noragami">Noragami</a>, but i enjoyed watching <a href="https://en.wikipedia.org/wiki/Kaguya-sama:_Love_Is_War">Love is War</a> multiple times.</pre>
+            <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/patchouli.gif" alt="patchouli_knowledge" width="10%" align="left">
+<pre>My favourite videogame is <a href="https://en.wikipedia.org/wiki/Celeste_(video_game)">Celeste</a> but I also love 
+<a href="https://it.wikipedia.org/wiki/Perfect_Cherry_Blossom">Touhou: Perfect Cherry Blossom</a> and <a href="https://www.op.gg/summoners/euw/Qw3rty26-6969">League of Legends</a>.
+My favourite characters are <a href="https://en.wikipedia.org/wiki/Madeline_(Celeste)">Madeline</a>, <a href="https://en.touhouwiki.net/wiki/Patchouli_Knowledge">Patchouli Knowledge</a> and <a href="https://www.leagueoflegends.com/it-it/champions/zoe/">Zoe</a>.
+I enjoy laughing at memes and <a href="https://scontent-fco2-1.cdninstagram.com/v/t51.29350-15/431671146_1559322924802491_538144545585817740_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDAweDE3NDIuc2RyIn0&_nc_ht=scontent-fco2-1.cdninstagram.com&_nc_cat=1&_nc_ohc=MLo2rGWdAcoAX_CWxzg&edm=AA5fTDYBAAAA&ccb=7-5&ig_cache_key=MzMxNjkwMjA1NTUxNDg0Nzc2MA%3D%3D.2-ccb7-5&oh=00_AfBKdIBwP4vfetkBpfNI_bGfa0UlLsMdRDdl4FXV6tGbag&oe=660BD391&_nc_sid=cf751b">funny cat images</a> found on internet.
+</pre>
+        </div>
+    </details>
+</div> <!-- About Me -->
 
-<div align="center"> <!-- Languages -->
-    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="right"></h2>
-    <div align="center">
+<!-- Languages -->
+<h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="right"></h2>
+<div align="center">
 <pre>I learned a bunch of programming languages during highschool and my free times. 
-I'm currently learning Web Programming and the Shell Language for Kernel coding.</pre>
-        <p align="center">
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"></a>
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"></a>
-            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"></a>
-            <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"></a>
-            <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"></a>
-            <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40"></a>
-            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"></a>
-        </p>
-    </div>
-</div> <br><!-- Languages -->
+I'm currently learning Web Programming and Shell Language for Kernel coding.</pre>
+    <p align="center">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"></a>
+        <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"></a>
+        <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"></a>
+        <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"></a>
+        <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"></a>
+        <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40"></a>
+        <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"></a>
+    </p>
+</div> <!-- Languages -->
 
-<div align="center"> <!-- Goals -->
-    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
-    <div align="center">
+<!-- Goals -->
+<h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
+<div align="center">
 <pre>I happen to set myself goals and objectives sometimes.
 They might be too pretentious for me but I'll try my best accomplishing them.</pre>
-    </div>
 </div>
-<div align="center"><details>
-    <summary>Peaks reached</summary>
-</details></div>
+<p align="left">
+    
+- [ ] Make my vyrtueOS (<a href="https://en.wikipedia.org/wiki/Gentoo_Linux">Gentoo</a> based Operative System) a public repository.
+- [ ] Create a <a href="https://en.wikipedia.org/wiki/Celeste_(video_game)">game</a>.
+- [ ] Make some <a href="https://www.youtube.com/watch?v=1rwAvUvvQzQ">music</a>. <a href="https://www.youtube.com/watch?v=MZa0ArkgXjc&list=PLA10BBDE6A30B2674&index=8">[also]</a>
+- [ ] Learn how to <a href="https://twitter.com/Lunamoon55/status/1712060620655525954/photo/1">draw</a>.
+- [ ] Find more goals to achieve.
+</p>
+<div align="center">
+    <details>
+        <summary>Peaks reached</summary>
+<pre>This Section is still work in progress.</pre>
+    </details>
+</div> <!-- Goals -->
 
 <div align="center"> <!-- Socials -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="left"> Socials <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="right"></h2>
