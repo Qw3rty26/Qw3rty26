@@ -25,31 +25,27 @@
 -->
 <!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 
-<!-- Header -->
-<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/bounceline.gif" alt="celeste_bounceline" width="5%"> This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
+<!-- Header
+<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="left"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/madeline_idle.gif" alt="celeste_madeline_idle" width="10%">This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="right"></h1> -->
 
-<!-- <div align="center">
-    I'm a beginner programmer and software engineer.
-<img src="https://media.tenor.com/lCCqej_k220AAAAi/2hu-touhou.gif" align="right">
-</div> -->
-<div align="center"> <!-- About Me -->
-    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="left"> About Me <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/prologue_icon.png" alt="celeste_prologue_icon" width="5%" align="right"></h2>
-    <div align="center">
-        <pre>
-            <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_red_heart" width="3%"> Hello! My name is Valerio Asaro, I'm a 20 year-old programmer and software engineer.
-            Currently based in Trento, I was born in Sicily March 26th 2004.
-            My passions are videogames and the Japanese culture.
-        </pre>
-    </div>
-</div>
+<h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%" align="left">This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%" align="right"></h1>
+
+<!-- <div align="left">  About Me -->
+<h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="left"> About Me <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="right"></h2>
+<div align="center"> 
+<pre>Hello! My name is Valerio Asaro, I'm a 20 year-old programmer and software engineer.
+Currently based in Trento, I was born in Sicily March 26th 2004.
+My passions are videogames the Japanese culture.</pre>
+</div> 
+<div align="center"><details>
+    <summary>What else you got!?</summary>
+</details></div>
 
 <div align="center"> <!-- Languages -->
-    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="left"> Languages <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/forsaken_city_icon.png" alt="celeste_forsaken_city_icon" width="5%" align="right"></h2>
     <div align="center">
-        <pre>
-            I learned a bunch of programming languages during highschool and my free times. 
-            I'm currently learning Web Programming and the Shell Language for Kernel coding.
-        </pre>
+<pre>I learned a bunch of programming languages during highschool and my free times. 
+I'm currently learning Web Programming and the Shell Language for Kernel coding.</pre>
         <p align="center">
             <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"></a>
             <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"></a>
@@ -60,27 +56,26 @@
             <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"></a>
         </p>
     </div>
-</div> <!-- Languages -->
-
-<div align="center"> <!-- To Do -->
-    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/journal_icon.png" alt="celeste_journal_icon" width="5%" align="right"></h2>
-    <div align="center">
-        <pre>
-            I happen to set myself goals and objectives sometimes.
-            They might be too pretentious for me but I'll try my best accomplishing them.
-        </pre>
-    </div>
-</div>
+</div> <br><!-- Languages -->
 
 <div align="center"> <!-- Goals -->
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="left"> Goals <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/summit_icon.png" alt="celeste_summit_icon" width="5%" align="right"></h2>
+    <div align="center">
+<pre>I happen to set myself goals and objectives sometimes.
+They might be too pretentious for me but I'll try my best accomplishing them.</pre>
+    </div>
+</div>
+<div align="center"><details>
+    <summary>Peaks reached</summary>
+</details></div>
+
+<div align="center"> <!-- Socials -->
     <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="left"> Socials <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="right"></h2>
 </div>
 <div align="center">
     <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/instruction_book/climb2.png" alt="celeste_climb_instruction_book" width="10%" align="right">
-    <pre>
-        You can reach me anywhere you like! From GMail to Discord, I've got you covered.
-        I should be able to reply in little to no time :D
-    </pre>
+<pre>You can reach me anywhere you like! From GMail to Discord, I've got you covered.
+I should be able to reply in little to no time :D</pre>
     <p align="center">
         <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
         <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
@@ -92,7 +87,6 @@
         <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="40"></a>
     </p>
 </div>
-
 
 
 <details> <!--Setup -->
