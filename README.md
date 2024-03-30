@@ -23,6 +23,7 @@
 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_strawberry.gif" alt="celeste_golden_strawberry" width="7%"> 
 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/golden_flying_strawberry.gif" alt="celeste_golden_flying_strawberry" width="7%"> 
 -->
+<!-- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 
 <!-- Header -->
 <h1 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/bounceline.gif" alt="celeste_bounceline" width="5%"> This is Qw3rty26 <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/objects/strawberry.gif" alt="celeste_strawberry" width="5%"></h1>
@@ -49,14 +50,14 @@
             I learned a bunch of programming languages during highschool and my free times. 
             I'm currently learning Web Programming and the Shell Language for Kernel coding.
         </pre>
-            <p align="left">
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="45"></a>
-            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45"></a>
-            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45"></a>
-            <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45"></a>
-            <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"></a>
-            <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="45"></a>
-            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="45"></a>
+        <p align="center">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40"></a>
+            <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"></a>
+            <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img alt="HTML-5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"></a>
+            <a href="https://it.wikipedia.org/wiki/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40"></a>
+            <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40"></a>
+            <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" height="40"></a>
+            <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"></a>
         </p>
     </div>
 </div> <!-- Languages -->
@@ -71,42 +72,27 @@
     </div>
 </div>
 
-
-<div align="center"><details> <!-- To Do -->
-    <summary><h2> To Do </h2></summary>
-    <h2 align="center"></h2>
-    <div align="center">
-        <pre>
-            
-        </pre>
-    </div>
-</details> <!-- To Do -->
-    <h2 align="center"></h2>
-</div>
-
-<div align="left"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_cassette" width="5%" align="left"></div>
-<div align="center"><details> <!-- Socials --> 
-    <summary><h2> Socials </h2></summary>
-    <h2 align="center"></h2>
-    <div align="center">
+<div align="center"> <!-- To Do -->
+    <h2 align="center"><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="left"> Socials <img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/icons/core_icon.png" alt="celeste_core_icon" width="5%" align="right"></h2>
+    <div align="left">
         <pre>
             You can reach me anywhere you like! From GMail to Discord, I've got you covered.
             I should be able to reply in little to no time :D
         </pre>
+        <p align="center">
+            <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40"></a>
+            <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" /></a>
+            <a href="" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/></a>
+            <a href="https://discordapp.com/users/qw3rty26" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/></a>
+            <!-- <a href="https://www.reddit.com/user/Qw3rty26/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40""/></a> -->
+            <!-- <a href="https://twitter.com/Qw3rty26" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40""/></a> -->
+            <a href="https://youtube.com/@qw3rty26?si=OfP6s7j6ARvkZMB6" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40""/></a>
+            <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="40"></a>
+        </p>
     </div>
-    <p align="center">
-        <a href="https://github.com/Qw3rty26" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="45"></a>
-        <a href="https://www.instagram.com/qw3rty_26/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" /></a>
-        <a href="" target="_blank"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/></a>
-        <a href="https://discordapp.com/users/qw3rty26" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="45"/></a>
-        <!-- <a href="https://www.reddit.com/user/Qw3rty26/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="45""/></a> -->
-        <!-- <a href="https://twitter.com/Qw3rty26" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="45""/></a> -->
-        <a href="https://youtube.com/@qw3rty26?si=OfP6s7j6ARvkZMB6" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45""/></a>
-        <a href="https://open.spotify.com/user/asarovalerio-it" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" height="45"></a>
-    </p>
-</details> <!-- Socials -->
-    <h2 align="center"></h2>
 </div>
+
+
 
 <details> <!--Setup -->
     <summary>Setup</summary>
