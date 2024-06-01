@@ -27,7 +27,7 @@ but i also enjoyed watching <a href="https://en.wikipedia.org/wiki/Noragami">Nor
     <br><br><img src="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/celeste_sprites/madeline_idle.gif" alt="celeste_madeline_idle" width="15%" align="left">
 <pre>My favourite videogame is <a href="https://en.wikipedia.org/wiki/Celeste_(video_game)">Celeste</a> but I also love 
 <a href="https://it.wikipedia.org/wiki/Perfect_Cherry_Blossom">Touhou: Perfect Cherry Blossom</a> and <a href="https://www.op.gg/summoners/euw/Qw3rty26-6969">League of Legends</a>.
-My favourite characters are <a href="https://en.wikipedia.org/wiki/Madeline_(Celeste)">Madeline</a>, <a href="https://en.touhouwiki.net/wiki/Patchouli_Knowledge">Patchouli Knowledge</a> and <a href="https://www.leagueoflegends.com/it-it/champions/zoe/">Zoe</a>.
+My favourite characters are <a href="https://en.wikipedia.org/wiki/Madeline_(Celeste)">Madeline</a>, <a href="https://en.touhouwiki.net/wiki/Patchouli_Knowledge">Patchouli Knowledge</a> and <a href="https://www.leagueoflegends.com/en-us/champions/zoe/">Zoe</a>.
 I enjoy laughing at memes and <a href="https://github.com/Qw3rty26/Qw3rty26/blob/main/images/funnycat.png">funny cat images</a> found on internet.
 </pre><br>
     </div> 
